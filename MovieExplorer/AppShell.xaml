@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MovieExplorer.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MovieExplorer.Pages"
+    Shell.FlyoutBehavior="Flyout"
+    Title="Movie Explorer">
+
+    <FlyoutItem Title="Browse Movies">
+        <ShellContent
+         Title="Browse"
+         ContentTemplate="{DataTemplate local:MainPage}"
+         Route="MainPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Favourites">
+        <ShellContent
+         Title="Favourites"
+         ContentTemplate="{DataTemplate local:FavouritesPage}"
+         Route="FavouritesPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="History">
+        <ShellContent
+         Title="History"
+         ContentTemplate="{DataTemplate local:HistoryPage}"
+         Route="HistoryPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Settings">
+        <ShellContent
+         Title="Settings"
+         ContentTemplate="{DataTemplate local:SettingsPage}"
+         Route="SettingsPage" />
+    </FlyoutItem>
+
+</Shell>
