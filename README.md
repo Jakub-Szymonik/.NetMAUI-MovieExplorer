@@ -1,5 +1,6 @@
 <h1>Movie Explorer</h1>
-<img width="1160" height="844" alt="Screenshot 2026-03-30 194627" src="https://github.com/user-attachments/assets/cc1f8148-5c04-4b0f-b450-b99d9c0bacb1" />
+<img width="1160" height="844" alt="Screenshot 2026-03-30 194627" src="https://github.com/user-attachments/assets/e8d3e197-31a8-48dc-bd44-76412063ead7" />
+
 <h2>Purpose</h2>
 I made an app that lets you browse movies by title or genra and save them to your watch history or favourites!
 
