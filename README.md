@@ -45,7 +45,7 @@ Select which genre you want to browse from the drop down menu!
 By clicking on the movie it is added to your watched, then you have an option to add it to your favourites
 
 
-<h2>View your History or Favourites</h2>
+<h3>View your History or Favourites</h2>
 Navigate to the sidebar menu and click History
 <img width="1160" height="844" alt="Screenshot 2026-03-30 194833" src="https://github.com/user-attachments/assets/c61c8fcb-1d79-4431-b828-a3542d5ba934" />
 <img width="967" height="735" alt="Screenshot 2026-03-30 211459" src="https://github.com/user-attachments/assets/ea58ac34-2466-4d12-97f4-73e3e6e9a3d5" />
@@ -61,7 +61,7 @@ Each movie has saved the date when you added it.
 You can change your name, switch to light mode or reset your data
 
 
-<h2>Light mode:</h2>
+<h3>Light mode:</h2>
 <img width="1106" height="833" alt="Screenshot 2026-03-30 195343" src="https://github.com/user-attachments/assets/1f4f4432-f3ff-4371-8196-c5cb2c7b5bd3" />
 
 
